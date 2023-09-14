@@ -1,0 +1,25 @@
+#footer{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+     width: 100%;
+}
+
+body{
+    background-color: rgba(47, 49, 179, 0.63);
+}
+
+img{
+    width: 50%;
+    
+}
+
+.li{
+    font-size: 35px;
+}
+
+#header{
+    color: rgba(255, 238, 0, 0.911) ;
+}
+
+
